@@ -1,0 +1,31 @@
+{
+  "name": "mslwk/route-planner",
+  "description": "A profiled route planning application designed for urban environments",
+  "type": "library",
+  "license": [
+    "MIT"
+  ],
+  "authors": [
+    {
+      "name": "Maciej Sławik",
+      "email": "maciekslawik@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^7.1.0",
+    "symfony/yaml": "dev-master"
+  },
+  "keywords": [
+    "navigation",
+    "route-planning",
+    "city",
+    "urban",
+    "motorcycle",
+    "bicycle"
+  ],
+  "autoload": {
+    "psr-4": {
+      "MSlwk\\RoutePlanner\\": "src"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+*~
+.DS_Store
+.idea
+maps/*
+!maps/.gitkeep
+configs/config.yml
+vendor/
+.env/
+docker-compose.yml
+/docker

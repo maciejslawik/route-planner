@@ -1,0 +1,202 @@
+[
+  {
+    "name": "highway:motorway",
+    "id": "101",
+    "cost": "10000.0"
+  },
+  {
+    "name": "highway:motorway_link",
+    "id": "102",
+    "cost": "10000.0"
+  },
+  {
+    "name": "highway:motorway_junction",
+    "id": "103",
+    "cost": "10000.0"
+  },
+  {
+    "name": "highway:trunk",
+    "id": "104",
+    "cost": "8.0"
+  },
+  {
+    "name": "highway:trunk_link",
+    "id": "105",
+    "cost": "8.0"
+  },
+  {
+    "name": "highway:primary",
+    "id": "106",
+    "cost": "1.0"
+  },
+  {
+    "name": "highway:primary_link",
+    "id": "107",
+    "cost": "1.0"
+  },
+  {
+    "name": "highway:secondary",
+    "id": "108",
+    "cost": "1.1"
+  },
+  {
+    "name": "highway:secondary_link",
+    "id": "109",
+    "cost": "1.1"
+  },
+  {
+    "name": "highway:tertiary",
+    "id": "110",
+    "cost": "1.2"
+  },
+  {
+    "name": "highway:tertiary_link",
+    "id": "111",
+    "cost": "1.2"
+  },
+  {
+    "name": "highway:residential",
+    "id": "112",
+    "cost": "1.2"
+  },
+  {
+    "name": "highway:living_street",
+    "id": "113",
+    "cost": "1.2"
+  },
+  {
+    "name": "highway:service",
+    "id": "114",
+    "cost": "1.4"
+  },
+  {
+    "name": "highway:track",
+    "id": "115",
+    "cost": "1.6"
+  },
+  {
+    "name": "highway:pedestrian",
+    "id": "116",
+    "cost": "10000.0"
+  },
+  {
+    "name": "highway:services",
+    "id": "117",
+    "cost": "1.4"
+  },
+  {
+    "name": "highway:path",
+    "id": "118",
+    "cost": "3.0"
+  },
+  {
+    "name": "highway:cycleway",
+    "id": "119",
+    "cost": "10000.0"
+  },
+  {
+    "name": "highway:unclassified",
+    "id": "120",
+    "cost": "2.0"
+  },
+  {
+    "name": "highway:road",
+    "id": "100",
+    "cost": "1.2"
+  },
+  {
+    "name": "cycleway:lane",
+    "id": "201",
+    "cost": "1.0"
+  },
+  {
+    "name": "cycleway:track",
+    "id": "202",
+    "cost": "1.0"
+  },
+  {
+    "name": "cycleway:opposite_lane",
+    "id": "203",
+    "cost": "1.0"
+  },
+  {
+    "name": "cycleway:opposite",
+    "id": "204",
+    "cost": "1.0"
+  },
+  {
+    "name": "cycleway:opposite_track",
+    "id": "205",
+    "cost": "1.0"
+  },
+  {
+    "name": "cycleway:share_busway",
+    "id": "206",
+    "cost": "1.0"
+  },
+  {
+    "name": "cycleway:shared_lane",
+    "id": "207",
+    "cost": "1.0"
+  },
+  {
+    "name": "tracktype:grade1",
+    "id": "301",
+    "cost": "1.0"
+  },
+  {
+    "name": "tracktype:grade2",
+    "id": "302",
+    "cost": "1.2"
+  },
+  {
+    "name": "tracktype:grade3",
+    "id": "303",
+    "cost": "1.4"
+  },
+  {
+    "name": "tracktype:grade4",
+    "id": "304",
+    "cost": "1.6"
+  },
+  {
+    "name": "tracktype:grade5",
+    "id": "305",
+    "cost": "2.0"
+  },
+  {
+    "name": "traffic_calming:yes",
+    "id": "401",
+    "cost": "1.4"
+  },
+  {
+    "name": "traffic_calming:bump",
+    "id": "402",
+    "cost": "1.5"
+  },
+  {
+    "name": "traffic_calming:hump",
+    "id": "403",
+    "cost": "1.4"
+  },
+  {
+    "name": "traffic_calming:cushion",
+    "id": "404",
+    "cost": "1.2"
+  },
+  {
+    "name": "traffic_calming:table",
+    "id": "405",
+    "cost": "1.2"
+  },
+  {
+    "name": "traffic_calming:rumble_strip",
+    "id": "406",
+    "cost": "1.7"
+  },
+  {
+    "name": "bicycle_road:yes",
+    "id": "501",
+    "cost": "1.0"
+  }
+]

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <type name="highway" id="1">
+    <class name="motorway" id="101" />
+    <class name="motorway_link" id="102" />
+    <class name="motorway_junction" id="103" />
+    <class name="trunk" id="104" />
+    <class name="trunk_link" id="105" />
+    <class name="primary" id="106" />
+    <class name="primary_link" id="107" />
+    <class name="secondary" id="108" />
+    <class name="secondary_link" id="109" />
+    <class name="tertiary" id="110" />
+    <class name="tertiary_link" id="111" />
+    <class name="residential" id="112" />
+    <class name="living_street" id="113" />
+    <class name="service" id="114" />
+    <class name="track" id="115" />
+    <class name="pedestrian" id="116" />
+    <class name="services" id="117" />
+    <class name="path" id="118" />
+    <class name="cycleway" id="119" />
+    <class name="unclassified" id="120" />
+    <class name="road" id="100" />
+  </type>
+  <type name="cycleway" id="2">
+    <class name="lane" id="201" />
+    <class name="track" id="202" />
+    <class name="opposite_lane" id="203" />
+    <class name="opposite" id="204" />
+    <class name="opposite_track" id="205" />
+    <class name="share_busway" id="206" />
+    <class name="shared_lane" id="207" />
+  </type>
+  <type name="tracktype" id="3">
+    <class name="grade1" id="301" />
+    <class name="grade2" id="302" />
+    <class name="grade3" id="303" />
+    <class name="grade4" id="304" />
+    <class name="grade5" id="305" />
+  </type>
+  <type name="traffic_calming" id="4">
+    <class name="yes" id="401" />
+    <class name="bump" id="402" />
+    <class name="hump" id="403" />
+    <class name="cushion" id="404" />
+    <class name="table" id="405" />
+    <class name="rumble_strip" id="406" />
+  </type>
+  <type name="bicycle_road" id="5">
+    <class name="yes" id="501" />
+  </type>
+</configuration>

@@ -1,0 +1,6 @@
+db:
+  routing_db: routing_database_name
+  full_db: full_osm_database_name
+  password: database_password
+  user: database_user
+  host: database_host
