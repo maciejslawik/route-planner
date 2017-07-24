@@ -1,3 +1,7 @@
+[![Latest Stable Version](https://poser.pugx.org/mslwk/route-planner/v/stable)](https://packagist.org/packages/mslwk/route-planner)
+[![Latest Unstable Version](https://poser.pugx.org/mslwk/route-planner/v/unstable)](https://packagist.org/packages/mslwk/route-planner)
+[![License](https://poser.pugx.org/mslwk/route-planner/license)](https://packagist.org/packages/mslwk/route-planner)
+
 # Profiled route planner #
 
 The project finds a route well-suited for the requested type of vehicle in an urban environment.
